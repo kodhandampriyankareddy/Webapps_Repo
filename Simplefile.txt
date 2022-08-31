@@ -1,5 +1,5 @@
-Every (change in line 1)
+Every(change in line 1)
 good
-Girl (change in line 3)
+Girl(change in line 3)
 deserves
 favour
